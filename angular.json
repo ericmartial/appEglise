@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ng-forms"
+    }
+  },
+  "defaultProject": "ng-forms",
+  "cli": {
+    "analytics": "504ba7fb-9c0c-4389-99f5-5a1bc0169310"
+  }
 }
